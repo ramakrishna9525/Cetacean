@@ -1,0 +1,7 @@
+Machine Learning and Image Processing Methods for Cetacean Photo Identification: A Systematic Review
+
+Algorithm:  ModifiedCNN Architecture
+
+Accuracy % score: 99.77
+
+
